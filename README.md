@@ -1,4 +1,5 @@
-Topic: Sales Dashboard for Madhav E-commerce 
+Sales Dashboard for Madhav E-commerce :-
+
 Objective:  Develop an interactive platform to
 explore trends and analyze sales data from Madhav Store.
 Steps Involved: Data Import: Gathered and imported raw sales data into the system.
