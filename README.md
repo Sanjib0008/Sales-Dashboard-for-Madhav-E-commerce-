@@ -1,11 +1,11 @@
 ## Sales Dashboard for Madhav E-commerce :-
 ![Sales Summary for Madhab E-Commerce_001](https://github.com/user-attachments/assets/401dbfc4-6b33-4975-9e74-8f34d511e2d3)
 
-** Objective: **
+## ** Objective: **
 
 Develop an interactive platform to explore trends and analyze sales data from Madhav Store.
 
-** Steps Involved: **
+## ** Steps Involved: **
 
 * Data Import: Gathered and imported raw sales data into the system.
   
@@ -15,7 +15,7 @@ Develop an interactive platform to explore trends and analyze sales data from Ma
 
 * Dashboard Creation: Designed a user-friendly, interactive dashboard to visualize and analyze key sales metrics.
 
-** Project Learnings: **
+## ** Project Learnings: **
 
 1. Developed an engaging dashboard to monitor and analyze online sales metrics effectively.
    
